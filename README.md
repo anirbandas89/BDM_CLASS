@@ -7,7 +7,7 @@ A Boltzmann solver code to compute the matter power spectrum and the CMB anisotr
 
 Based on the CLASS code (https://github.com/lesgourg/class_public)
 
-For download and information, see https://sites.google.com/site/anirbandas21989v2
+For download and information, see https://sites.google.com/site/anirbandas21989v2/codes
 
 
 Using the code
